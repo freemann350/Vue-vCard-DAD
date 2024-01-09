@@ -1,9 +1,10 @@
 Vue.js App using Laravel as API (With passport auth).
 
+Check diagram for DB table relation info 
 # Setup transcript (PT)
 Se a versão original da database ainda não está criada, deverão seguir o processo "normal":
 
-Substituir a pasta "database" do projeto Laravel pelo conteúdo deste ficheiro (apagar a pasta original).
+Substituir a pasta "database" do projeto Laravel pelo conteúdo deste ficheiro (database.zip) (apagar a pasta original).
 
 De seguida executar os seguintes comandos: 
 
