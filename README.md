@@ -13,8 +13,8 @@ De seguida executar os seguintes comandos:
 `php artisan db:seed`
 
 - Nota: Se ocorrer um erro ao executar o último comando, experimente:
-`composer dump-autoload`
-`php artisan db:seed`
+  `composer dump-autoload`
+  `php artisan db:seed`
 
     Ou em alternativa, no ficheiro "config/app.php" altere o parâmetro timezone para:
 
